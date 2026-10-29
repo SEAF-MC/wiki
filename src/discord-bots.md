@@ -17,7 +17,7 @@ John Helldiver is our main bot. Its functions include the following:
 To interact with John Helldiver you must ping him. He can remember up to 6 messages in the past, separated by channel. With every interaction, a 12-hour channel-specific timer is started/reset. If said timer ever reaches 0, John's memory will be wiped for that channel.
 
 ### Technical info
-John is powered by [n8n](https://github.com/n8n-io/n8n), [Gemini](https://aistudio.google.com/usage), and the [Helldivers 2 API](https://github.com/helldivers-2/api). His source files are available [here](https://github.com/TankObliterator/john-helldiver) and are automatically updated every day at 6 AM MST.
+John is powered by [n8n](https://github.com/n8n-io/n8n), [Gemini](https://aistudio.google.com/usage), and the [Helldivers 2 API](https://github.com/helldivers-2/api). His source files are available [here](https://github.com/SEAF-MC/john-helldiver) and are automatically updated every day at 6 AM MST.
 
 ## Carl-bot
 Carl-bot, aka "Automaton 1", has been in the server since almost the beginning and only has one purpose: announcing new member joins and leaves. See their [website](https://carl.gg/) for more info.
