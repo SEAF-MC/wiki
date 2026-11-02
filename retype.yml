@@ -26,6 +26,10 @@ links:
   link: https://modrinth.com/organization/seaf-mc
   icon: package
   target: blank
+- text: Github
+  link: https://github.com/SEAF-MC
+  icon: mark-github
+  target: blank
 
 showSidebarFilter: false
 
