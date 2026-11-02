@@ -29,5 +29,6 @@ The Music Bot can only be described as a vile beast that has to be constantly fo
 To play music with this bot, you must first be connected to a voice channel. Once connected, navigate to the `#bot-cmds` channel and enter `/play LinkToMusicHere`.
 
 !!!base Note on Music Sources
-Currently, we support playing from any™ source that isn't ~~Apple Music~~ or Spotify (this could change if someone with Spotify Premium or an Apple developer account is willing to generate us an API key).
+Currently we support playing from the following sources:
+Spotify, Apple Music, YTM, YT, Twitch, and direct download links.
 !!!
